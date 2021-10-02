@@ -5,6 +5,8 @@
 
 # Dependencies mythic_notify (https://github.com/JayMontana36/mythic_notify)
 
+# Preview (https://i.imgur.com/qEByhG4.png)
+
 # RESMON 0.1 MS
 
 # INSTALLING
