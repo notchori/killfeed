@@ -5,21 +5,13 @@
 
 # Dependencies mythic_notify (https://github.com/JayMontana36/mythic_notify)
 
--- INSTALLING
+# RESMON 0.1 MS
+
+# INSTALLING
 
 start killfeed
 start mythic_notify
 
--- No soy propietario de este script, solo lo modifique, desconozco al autor de este.
 
-# Killfeed estilo servidor DM
-# Facil traduccion y configuracion (server.lua)
-
-# Dependencias mythic_notify (https://github.com/JayMontana36/mythic_notify)
-
--- INSTALACION
-
-start killfeed
-start mythic_notify
 
 
