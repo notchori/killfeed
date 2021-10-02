@@ -1,4 +1,4 @@
--- I do not own this script, just modify it, I do not know the author of this.
+I do not own this script, just modify it, I do not know the author of this.
 
 # Killfeed server style DM
 # Easy translation and configuration (server.lua)
