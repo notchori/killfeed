@@ -12,12 +12,12 @@ Citizen.CreateThread(function()
 	alreadyDead = false
     while true do
         Citizen.Wait(50)
-		local playerPed = GetPlayerPed(-1)
+		local playerPed = PlayerPedId()
 		if IsEntityDead(playerPed) and not alreadyDead then
 			killer = GetPedKiller(playerPed)
 			killername = false
 			for id = 0, 255 do
-				if killer == GetPlayerPed(id) then
+				if killer == PlayerPedId() then
 					killername = GetPlayerName(id)
 				end				
 			end
